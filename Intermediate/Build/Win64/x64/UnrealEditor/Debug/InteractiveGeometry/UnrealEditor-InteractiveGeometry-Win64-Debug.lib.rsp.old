@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InteractiveGeometry-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal5SrcProject\Utopia\Intermediate\Build\Win64\x64\UtopiaEditor\Debug\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_1.h.obj"
+"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Debug\InteractiveGeometry\Module.InteractiveGeometry.cpp.obj"
+"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Debug\InteractiveGeometry\Default.rc2.res"
+/OUT:"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Debug\InteractiveGeometry\UnrealEditor-InteractiveGeometry-Win64-Debug.lib"

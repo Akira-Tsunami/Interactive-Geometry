@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InteractiveGeometry.cpp.obj": [
+			"InteractiveGeometry.cpp.obj",
+			"CgalAdapter.gen.cpp.obj",
+			"InteractiveGeometry.init.gen.cpp.obj",
+			"CgalAdapter.cpp.obj",
+			"MeshSegmentation.cpp.obj"
+		]
+	}
+}

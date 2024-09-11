@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InteractiveGeometry.cpp.obj": [
+			"InteractiveGeometry.cpp.obj"
+		]
+	}
+}

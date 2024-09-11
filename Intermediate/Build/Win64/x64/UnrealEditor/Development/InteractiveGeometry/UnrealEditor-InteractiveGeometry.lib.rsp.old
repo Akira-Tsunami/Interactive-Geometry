@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InteractiveGeometry.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal5SrcProject\Utopia\Intermediate\Build\Win64\x64\UtopiaEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_1.h.obj"
+"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Development\InteractiveGeometry\Module.InteractiveGeometry.cpp.obj"
+"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Development\InteractiveGeometry\MeshSegmentation.cpp.obj"
+"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Development\InteractiveGeometry\Default.rc2.res"
+/OUT:"G:\Unreal5SrcProject\Utopia\Plugins\InteractiveGeometry\Intermediate\Build\Win64\x64\UnrealEditor\Development\InteractiveGeometry\UnrealEditor-InteractiveGeometry.lib"

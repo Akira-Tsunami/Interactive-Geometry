@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InteractiveGeometry.cpp.obj": [
+			"InteractiveGeometry.cpp.obj",
+			"MeshSegmentation.cpp.obj"
+		]
+	}
+}

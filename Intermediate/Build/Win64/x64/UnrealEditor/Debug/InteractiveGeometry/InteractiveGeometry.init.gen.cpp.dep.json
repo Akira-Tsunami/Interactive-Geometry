@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal5srcproject\\utopia\\plugins\\interactivegeometry\\intermediate\\build\\win64\\unrealeditor\\inc\\interactivegeometry\\uht\\interactivegeometry.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal5srcproject\\utopia\\intermediate\\build\\win64\\x64\\utopiaeditor\\debug\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "g:\\unreal5srcproject\\utopia\\plugins\\interactivegeometry\\intermediate\\build\\win64\\x64\\unrealeditor\\debug\\interactivegeometry\\definitions.interactivegeometry.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

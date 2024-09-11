@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal5srcproject\\utopia\\plugins\\interactivegeometry\\intermediate\\build\\win64\\unrealeditor\\inc\\interactivegeometry\\uht\\cgaladapter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal5srcproject\\utopia\\intermediate\\build\\win64\\x64\\utopiaeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "g:\\unreal5srcproject\\utopia\\plugins\\interactivegeometry\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactivegeometry\\definitions.interactivegeometry.h",
+            "g:\\unreal5srcproject\\utopia\\plugins\\interactivegeometry\\source\\interactivegeometry\\public\\cgaladapter.h",
+            "g:\\unreal5srcproject\\utopia\\plugins\\interactivegeometry\\intermediate\\build\\win64\\unrealeditor\\inc\\interactivegeometry\\uht\\cgaladapter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
